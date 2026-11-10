@@ -3,7 +3,6 @@
 I'm a dual-degree student at Penn studying **Economics, Statistics & Data Science** at Wharton and **Computer Science** at Penn Engineering (Class of 2030). I build websites and analyze data.
 
 ## 🌐 Web Work
-- **[Lovingstone.org](https://lovingstone.org)**: designed and built the organization's website with HTML, CSS, and JavaScript.
 - **Wharton Alumni Website** (Wharton External Affairs): build and maintain 20+ pages in WordPress, including:
   - [Class of 2026 Reunion](https://alumni.wharton.upenn.edu/reunion/class-of-2026/) and 11 other reunion class pages
   - [Wharton Graduate Emeritus Society](https://alumni.wharton.upenn.edu/emeritus-society/)
